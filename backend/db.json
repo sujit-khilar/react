@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "name": "Buturu",
+      "salary": "45000",
+      "company": "tcs",
+      "id": 2
+    },
+    {
+      "name": "rahul",
+      "salary": "200",
+      "company": "randi khana",
+      "id": 3
+    }
+  ]
+}
